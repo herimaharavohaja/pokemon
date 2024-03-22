@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+/*
+  "@emotion/react": "^11.11.4",
+  "@emotion/styled": "^11.11.0",
+  "@mui/icons-material": "^5.15.14",
+  "@mui/material": "^5.15.14",
+  "axios": "^1.6.8",
+  "next": "14.1.4",
+  "numeral": "^2.0.6",
+  "react": "^18",
+  "react-calendar-heatmap": "^1.9.0",
+  "react-dom": "^18",
+  "sass": "^1.72.0"
+*/
